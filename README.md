@@ -19,5 +19,5 @@ Assume the four rows of data you have for each table in `bellroy_question_1.sqli
 Comment freely on our schema and anything else you notice. (We mention this because we suspect that if you’re the candidate we’re looking for, you’re at least a little horrified by something in this database.)
 
 * Expected answers: *(Please provide these through [the application page](https://grnh.se/091104aa1us).)*
-    1. A SQL SELECT statement that returns the appropriate recordset (supplied through the relevant text area at https://grnh.se/091104aa1us or the database modified to include a View in this repo and a git-bundle of your changes uploaded through the last upload field at https://grnh.se/091104aa1us ). The statement will be run in sqlite3.
+    1. A SQL SELECT statement that returns the appropriate recordset (supplied through the relevant text area at https://grnh.se/091104aa1us). The statement will be run in sqlite3.
     2. Your comments & notes (supplied through the relevant text area at https://grnh.se/091104aa1us ).
