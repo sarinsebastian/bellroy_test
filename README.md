@@ -5,8 +5,7 @@ Welcome to the Bellroy Data Engineer Application Repo :)
 Before you start with the questions, here are some things you need to note:
 1. Please create a private clone (**don't fork**) this repo.
 2. Please complete **all** parts of the application question, but don't spend more than 20-30m across all of them. (We’re looking for an idea of how you’d approach questions like this, how you think, and the sorts of things you’ll notice. We *do* want to respect your time, and we *don’t* want you to spend hours on these. We’re expecting the level of detail you can get out in that time, and won’t judge you harshly against applicants who obviously spent more time than that.)
-3. If you modify the database and want to provide your modified version use [git bundle](https://git-scm.com/docs/git-bundle) to bundle all of your commits together so you can attach them to your submission. **Don't** submit a GitHub pull request (your competitors for this job will be able to see your work and steal all of your brilliant ideas!). Upload your bundle on the [application page](https://grnh.se/091104aa1us).
-4. If you're not familiar with SQLite it might be worth reviewing ABOUT_SQLITE.md
+3. If you're not familiar with SQLite it might be worth reviewing ABOUT_SQLITE.md
 
 ***
 ## Please see questions below (the same as you saw on the application page):
